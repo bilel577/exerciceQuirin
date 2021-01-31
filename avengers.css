@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+
+.conteneur{
+    max-width: 100vh;
+    position: relative;
+    margin: auto;
+}
+#un{
+    position: absolute;
+    top:80px;
+    left: 100px;
+}
+
+#deux{
+    position: absolute ;
+    top: 180px;
+    left: 40px;
+
+}
+
+#trois{
+    position: absolute;
+    top: 180px;
+    left: 200px;
+}
+
+#quatre{
+    position: absolute;
+    top: 90px;
+    left: 250px;
+}
+#cinq{
+    position: absolute;
+    top: 20px;
+    left:330px ;
+}
+#six{
+    position: absolute;
+    top:150px;
+    left:350px;
+}
+#sept{
+    position: absolute;
+    top:260px;
+    left:280px
+}

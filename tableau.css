@@ -1,0 +1,39 @@
+
+th{
+    width: 800px;
+    text-align: end;
+    border: 1px solid black;
+    background-color: rgba(190, 178, 178, 0.212);
+}
+thead{
+    background-color: linear-gradient(to bottom, black, white);
+}
+
+table{
+    background-color:#4580b6;
+    width: 800px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 10px 5px 5px black;
+}
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+.hover:hover{
+    background-color:lightgray;
+}
+th{
+    background: linear-gradient(black  , grey );
+}
+
+.fond{
+    padding: 10px;
+    margin: 20px;
+    background-color: silver;
+    width: 900px;
+}
+
+.texte-a-gauche{
+    text-align: right;
+}

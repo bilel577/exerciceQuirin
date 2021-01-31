@@ -1,0 +1,56 @@
+.starswars{
+    margin: auto;
+    width: 1000px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "un deux deux"
+    "trois quatre cinq"
+    "trois six sept"
+    "huit neuf dix";
+}
+h1{
+    text-align: center;
+}
+
+.un{
+    grid-area: un;
+    width: 100%;
+}
+
+.deux{
+    grid-area: deux;
+    width: 100%;
+}
+.trois{
+    grid-area: trois;
+    width: 100%;
+}
+.quatre{
+    grid-area: quatre;
+    width: 100%;
+}
+.cinq{
+    grid-area: cinq;
+    width: 100%;
+}
+.six{
+    grid-area: six;
+    width: 100%;
+}
+.sept{
+    grid-area: sept;
+    width: 100%;
+}
+.huit{
+    grid-area: huit;
+    width: 100%;
+}
+.neuf{
+    grid-area: neuf;
+    width: 100%;
+}
+.dix{
+    grid-area: dix;
+    width: 100%;
+}
